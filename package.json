@@ -1,0 +1,20 @@
+{
+  "name": "node-express",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/marcusLSantos/nodezera.git"
+  },
+  "author": "marcus",
+  "license": "ISC",
+  "description": "Projeto teste com node. js e express",
+  "dependencies": {
+    "nodemon": "^2.0.2",
+    "express": "^4.17.1",
+    "body-parser": "1.19.0"
+  }
+}
